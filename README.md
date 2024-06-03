@@ -32,7 +32,8 @@
 
 <h2> Education </h2>
 
-- UNIVERSITY OF STAFFORDSHIRE (UK): Bachelor of Science (BSc) Intelligence and Cyber Security: (First Class Hons)         
+- UNIVERSITY OF STAFFORDSHIRE (UK):
+  Bachelor of Science (BSc) Intelligence and Cyber Security: (First Class Hons)         
 
   
 
