@@ -24,6 +24,7 @@
 
 - [CompTIA Security +](https://www.credly.com/earner/earned/badge/b717def2-b202-45dc-9a8f-53783ceb03e4)
 - [CompTIA Network +](https://www.credly.com/earner/earned/badge/54705dd0-cec9-4e5a-a2be-0c5646c1cf82)
+- [AWS Certified Solutions Architect: Associate (SAA-C03)](https://www.credly.com/earner/earned/badge/58fa652f-93fc-4e72-bbe2-41729c09c8b5)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/82930100-5acd-45f2-a874-e5a0760bfc65)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/earner/earned/badge/04842f93-773c-4e47-87f8-a7efb03a0740)
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://www.credly.com/earner/earned/badge/27443a8a-d3fa-4f08-9a92-208330dd9b03)
