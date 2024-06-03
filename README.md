@@ -32,7 +32,7 @@
 
 <h2> Education </h2>
 
-- BSc (Hons) Intelligence and Cyber Security at Staffordshire University
+- UNIVERSITY OF STAFFORDSHIRE (UK): Bachelor of Science (BSc) Intelligence and Cyber Security: (First Class Hons)         
 
   
 
