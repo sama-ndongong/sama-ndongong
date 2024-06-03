@@ -5,7 +5,7 @@
 
 - <b> SIEM Home Lab </b>
   - [Set up a SIEM in Azure (Sentinel)](https://github.com/sama-ndongong/lab)
-  - [Build a Powerful home SIEM Lab (Elastic SIEM)](https://github.com/sama-ndongong/lab)
+  - [Build a Powerful Home SIEM Lab (Elastic SIEM)](https://github.com/sama-ndongong/lab)
   
 - <b> Active Directory </b>
   - [Set up an Active Directory environment](https://github.com/sama-ndongong/lab)
