@@ -20,7 +20,7 @@
   - [Build a simple REST API](https://github.com/sama-ndongong/lab)
  
 - <b> Open source intelligence (OSINT) </b>
-  - [OSINT resources](gh repo clone sama-ndongong/Open_Source_Intel)
+  - [OSINT resources](https://github.com/sama-ndongong/Open_Source_Intel)
  
 
 <h2> Certifications </h2>
