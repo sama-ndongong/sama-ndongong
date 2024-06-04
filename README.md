@@ -19,6 +19,9 @@
 - <b> REST API </b>
   - [Build a simple REST API](https://github.com/sama-ndongong/lab)
  
+- <b> Open source intelligence (OSINT) </b>
+  - [OSINT resources](https://github.com/sama-ndongong/lab)
+ 
 
 <h2> Certifications </h2>
 
