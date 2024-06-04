@@ -1,7 +1,12 @@
 <h1>Hi, I'm Sama! , <a href="https://www.linkedin.com/in/sama-n-798a5487/)">CyberSecurity Professional</a>, 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
 
+<h2>👨‍💻 Cyber Security Learning:</h2>
+
+- <b> Continuous Learning Pathway </b>
+  - [Learning Platforms and Resources](https://github.com/sama-ndongong/Open_Source_Intel)
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> SIEM Home Lab </b>
   - [Set up a SIEM in Azure (Sentinel)](https://github.com/sama-ndongong/lab)
