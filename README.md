@@ -27,8 +27,8 @@
 - <b> Open source intelligence (OSINT) </b>
   - [OSINT resources](https://github.com/sama-ndongong/Open_Source_Intel)
  
-- <b> Network Infrastructure Enhancement </b>
-  - [Switch Upgrade:(Role) Second Line Support Engineer](https://github.com/sama-ndongong/Network-Infrastructure-enhancement-)
+- <b> 🚀 Switch Upgrade: Second Line Support Engineer </b>
+  - [Network Infrastructure Enhancement (Switch Upgrade)](https://github.com/sama-ndongong/Network-Infrastructure-enhancement-)
  
 
 <h2> Certifications </h2>
