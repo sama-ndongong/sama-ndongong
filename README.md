@@ -19,7 +19,7 @@
   - [Create a File Integrity Monitor (FIM)](https://github.com/sama-ndongong/lab)
     
 - <b> Vulnerability Management </b>
-  - [Set up a Vulnerability Management Lab](https://github.com/sama-ndongong/lab)
+  - [Set up a Vulnerability Management Lab](https://github.com/sama-ndongong/Vulnerability-Management-Home-lab-Project)
  
 - <b> REST API </b>
   - [Build a simple REST API](https://github.com/sama-ndongong/lab)
