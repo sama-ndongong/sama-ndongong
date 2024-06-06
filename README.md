@@ -12,8 +12,8 @@
   - [Set up a SIEM in Azure (Sentinel)](https://github.com/sama-ndongong/lab)
   - [Build a Powerful Home SIEM Lab (Elastic SIEM)](https://github.com/sama-ndongong/HOME-LAB-PROJECT/tree/main)
   
-- <b> Active Directory </b>
-  - [Set up an Active Directory environment](https://github.com/sama-ndongong/lab)
+- <b> Active Directory Domain Services (AD DS) </b>
+  - [Home Lab Guide: Active Directory on VMware with PowerShell User Management](https://github.com/sama-ndongong/Active-Directory-Setup-on-VMware-and-PowerShell-Scripting)
     
 - <b> File Integrity Monitor (FIM) </b>
   - [Create a File Integrity Monitor (FIM)](https://github.com/sama-ndongong/lab)
