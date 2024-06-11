@@ -5,6 +5,9 @@
 
 - <b> Continuous Learning Pathway/ Notes </b>
   - [Learning Platforms and Resources](https://github.com/sama-ndongong/learning-resources-/blob/main/README.md)
+  - [Linux Basic Exercise](https://github.com/sama-ndongong/Linux-Exercises)
+  - [Security Notes](https://github.com/sama-ndongong/Security-Notes-)
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
