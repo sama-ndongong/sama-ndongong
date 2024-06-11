@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cyber Security Learning:</h2>
 
-- <b> Continuous Learning Pathway </b>
+- <b> Continuous Learning Pathway/ Notes </b>
   - [Learning Platforms and Resources](https://github.com/sama-ndongong/learning-resources-/blob/main/README.md)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
