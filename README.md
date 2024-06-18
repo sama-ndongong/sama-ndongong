@@ -17,6 +17,9 @@
   
 - <b> Active Directory Domain Services (AD DS) </b>
   - [Home Lab Guide: Active Directory on VMware with PowerShell User Management](https://github.com/sama-ndongong/Active-Directory-Setup-on-VMware-and-PowerShell-Scripting)
+ 
+- <b> Azure / Microsoft 365 </b>
+  - [Azure Virtual Desktop (AVD) Home Lab](https://github.com/sama-ndongong/Azure-Virtual-Desktop--AVD--Home-Lab?tab=readme-ov-file)
     
 - <b> File Integrity Monitor (FIM) </b>
   - [Create a File Integrity Monitor (FIM)](https://github.com/sama-ndongong/lab)
